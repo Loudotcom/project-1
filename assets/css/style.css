@@ -1,7 +1,12 @@
 /* Nav Bar */
+.navbar {
+    background-color: #232220; 
+}
 
-
-
+#bg-img-jumbo {
+    width: 100%;
+    height: 40%;
+}
 /* Media Query */
 
 /* Large devices (laptops and desktops, 992px and up) */
