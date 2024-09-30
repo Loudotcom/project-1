@@ -1,18 +1,32 @@
 /* Nav Bar */
 
 
-
+/* 
 .row img {
     height: 100vh;
     width: 100vh;
     object-fit: cover;
-    }
+    } */
 
 .jumbotron {  
     background-image: url(/assets/images/guilherme-bustamante-M4y3qMBzYi4-unsplash.jpg);
     background-size: cover; 
     width: 100%;
 }
+
+#bg-infocards, #bg-affirmations {
+    background-color: pink;
+    background-size: cover; 
+    width: 100%;
+}
+
+#bg-infocards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
 
 .col-sm-12 {
 
