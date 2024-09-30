@@ -24,7 +24,18 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+}
 
+#bg-affirmations {
+    background-color: yellow;
+}
+
+#bg-links {
+    background-color: aquamarine;
+}
+
+#bg-links li {
+    list-style-type: none;
 }
 
 
