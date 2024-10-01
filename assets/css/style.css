@@ -29,12 +29,6 @@
     width: 100%;
 }
 
-#bg-infocards {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
 #bg-links {
     background-color: aquamarine;
 }
@@ -43,7 +37,15 @@
     list-style-type: none;
 }
 
+.heading {
+    background-color: #ffdfbf;
+    height: 100px;
+    text-align: center;
+}
 
+.card-group {
+    background-color: #ffdfbf;
+}
 .col-sm-12 {
 
     /* Need to sort height so viewable in one screen then scroll down - see whiskey site */
