@@ -12,6 +12,7 @@
     background-image: url(/assets/images/guilherme-bustamante-M4y3qMBzYi4-unsplash.jpg);
     background-size: cover; 
     width: 100%;
+    margin: auto;
 }
 
 #bg-infocards, #bg-affirmations {
@@ -43,9 +44,9 @@
 /* Footer*/
 .footer {
     height: 50px;
-    display: flex;
-    text-align: left;
-} 
+}
+
+
 /* Media Query */
 
 /* Large devices (laptops and desktops, 992px and up) */
