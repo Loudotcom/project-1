@@ -8,12 +8,21 @@
     object-fit: cover;
     } */
 
+
 .jumbotron {  
     background-image: url(/assets/images/guilherme-bustamante-M4y3qMBzYi4-unsplash.jpg);
     background-size: cover; 
     width: 100%;
     margin: auto;
+    font-weight:500;
 }
+
+.jumb-text {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
 
 #bg-infocards, #bg-affirmations {
     background-size: cover; 
