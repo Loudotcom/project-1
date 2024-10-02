@@ -54,8 +54,7 @@ Initial HTML Validation was performed using the W3C Mark up service: https://jig
 
 ## Bugs for future fixes
 
-- HTML: ![[Pasted image 20241002135146.png]]
-- 
+- HTML: <img src="assets/images/html validator.png">
 
 - - -
 # Deployment #
