@@ -77,7 +77,7 @@ Card 1 - darius-bashar-xMNel_otvWs-unsplash
 Card 2 - javier-allegue-barros-55bVEzGVnzY-unsplash
 Card 3 - shane-rounce-DNkoNXQti3c-unsplash
 
-The organisation logo was created using 
+The organisation logo was created using www.logo.com
 The logo photos used for the links section were taken from Google Images.
 
 ## Code
