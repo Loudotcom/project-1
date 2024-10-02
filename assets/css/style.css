@@ -41,6 +41,10 @@
     height: 30%;
 }
 
+#bg-links li {
+    list-style-type: none;
+}
+
 /* Footer*/
 .footer {
     height: 50px;
