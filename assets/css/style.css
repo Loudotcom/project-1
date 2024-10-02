@@ -1,5 +1,5 @@
 .jumbotron {  
-    background-image: url("assets/images/jordan-wozniak-xP_AGmeEa6s-unsplash.jpg");   
+    background-image: url('assets/images/darius-bashar-xMNel_otvWs-unsplash.jpg');   
     background-size: cover; 
     width: 100%;
     margin: auto;
@@ -13,7 +13,7 @@
 }
 
 
-#bg-infocards, #bg-affirmations {
+#bg-infocards {
     background-size: cover; 
     width: 100%;
 }
@@ -36,8 +36,6 @@
     background-color: #ffdfbf;
 }
 .col-sm-12 {
-
-    /* Need to sort height so viewable in one screen then scroll down - see whiskey site */
     height: 30%;
 }
 
@@ -48,12 +46,4 @@
 /* Footer*/
 .footer {
     height: 50px;
-}
-
-
-/* Media Query */
-
-/* Large devices (laptops and desktops, 992px and up) */
-@media screen and (min-width: 992px) {
-
 }
