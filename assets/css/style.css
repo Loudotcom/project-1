@@ -1,5 +1,5 @@
 .jumbotron {  
-    background-image: url(/assets/images/guilherme-bustamante-M4y3qMBzYi4-unsplash.jpg);
+    background-image: url("assets/images/guilherme-bustamante-M4y3qMBzYi4-unsplash.jpg");
     background-size: cover; 
     width: 100%;
     margin: auto;
