@@ -32,7 +32,7 @@ Below the cards there is a section with two columns, for mental health informati
 - - - -
  
  ## Wireframe
-![[Wireframe.png]] 
+<img src="assets/images/Wireframe.png> 
 
 
  ## Logo/Navicon
